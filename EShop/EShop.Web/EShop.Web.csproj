@@ -10,10 +10,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="C:\Users\Dimitar Kitanovski\.nuget\packages\nlog.config\4.7.14\contentFiles\any\any\NLog.config" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="NLog.Config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
